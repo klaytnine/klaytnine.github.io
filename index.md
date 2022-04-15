@@ -52,6 +52,14 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <img src="KT pics/dance1.jpg">
 
-<img src="KT pics/meg wed.mp4">
+<img src="KT pics/wd1.jpg">
+
+<img src="KT pics/gr.jpg">
+
+<img src="KT pics/gg2.jpg">
 
 <img src="KT pics/drawing.jpg">
+
+<img src="KT pics/background 11.jpg">
+
+<img src="KT pics/background 22.jpg">
