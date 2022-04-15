@@ -1,7 +1,5 @@
-### HELLO
-
-# THANK YOU FOR VISITNG 
 # KT STUDIO
+## THANK YOU FOR VISITNG 
 
 ### Photography / Film / Editing / Design
 
