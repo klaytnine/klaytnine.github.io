@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-### Photography
+# Photography
 
 <img src="KT pics/dance1.jpg">
 
@@ -51,7 +51,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <img src="KT pics/gg2.jpg">
 
-### Graphic Design 
+# Graphic Design 
 
 <img src="KT pics/krit 2.jpg">
 
@@ -61,7 +61,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <img src="KT pics/drawing.jpg">
 
-### Social Media work history
+# Social Media work history
 
 <img src="KT pics/cc.JPG">
 
