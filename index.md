@@ -38,11 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-<img src="KT pics/MJ.jpg">
-
-<img src="KT pics/D.jpg">
-
-<img src="KT pics/krit 2.jpg">
 
 <img src="KT pics/dance1.jpg">
 
@@ -51,6 +46,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <img src="KT pics/gr.jpg">
 
 <img src="KT pics/gg2.jpg">
+
+<img src="KT pics/krit 2.jpg">
+
+<img src="KT pics/MJ.jpg">
+
+<img src="KT pics/D.jpg">
 
 <img src="KT pics/drawing.jpg">
 
