@@ -60,6 +60,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <img src="KT pics/drawing.jpg">
 
-<img src="KT pics/background 11.jpg">
+<img src="KT pics/cc.JPG">
 
-<img src="KT pics/background 22.jpg">
+<img src="KT pics/bb.JPG">
+
+<img src="KT pics/ff.JPG">
