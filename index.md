@@ -1,8 +1,8 @@
-## THANK YOU FOR VISITNG
+### THANK YOU FOR VISITNG
 
 # KT STUDIO
 
-### Markdown
+### Photography / Film / Editing / Design
 
 **Markdown** is a _lightweight_ and 'easy-to-use' syntax for styling your writing. It includes conventions for
 
