@@ -5,7 +5,7 @@
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<iframe width=100% src="KT pics/meg wed.mp4"> </iframe>
+<iframe src="KT pics/meg wed.mp4"> </iframe>
 
 # Photography
 
