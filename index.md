@@ -41,3 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <img src="images/katieExamplePicture.jpg">
 
 <img src="images/katieExample2.jpg">
+
+<img src="KT pics/IMG_9921 (2).jpg">
