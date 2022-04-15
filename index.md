@@ -45,6 +45,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <img src="KT pics/gr.jpg">
 
 <img src="KT pics/gg2.jpg">
+
 ```markdown
 # Graphic Design 
 ```
