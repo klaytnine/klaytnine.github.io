@@ -3,7 +3,8 @@
 
 ### Photography / Film / Editing / Design
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions regarding my work or pricing,  please email me and I should get back to you within 1-2 business days
+EMAIL: drawuskt@gmail.com
 
 <iframe width="633" height="317" src="KT pics/meg wed.mp4"> </iframe>
 
