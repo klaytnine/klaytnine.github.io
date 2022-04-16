@@ -1,12 +1,10 @@
-# KT STUDIO
-## THANK YOU FOR VISITNG 
+# KT STUDIO & GALLERY
 
 ### Photography / Film / Editing / Design
 
-If you have any questions regarding my work or pricing,  please email me and I should get back to you within 1-2 business days
+If you have any questions regarding my work or pricing, please email me and I should get back to you within 1-2 business days
 EMAIL: drawuskt@gmail.com
 
-<iframe width="633" height="317" src="KT pics/meg wed.mp4"> </iframe>
 
 # Photography
 
@@ -17,6 +15,10 @@ EMAIL: drawuskt@gmail.com
 <img src="KT pics/gr.jpg">
 
 <img src="KT pics/gg2.jpg">
+
+# Film
+
+<iframe width="633" height="317" src="KT pics/meg wed.mp4"> </iframe>
 
 # Graphic Design 
 
