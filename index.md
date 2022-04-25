@@ -26,6 +26,8 @@ EMAIL: drawuskt@gmail.com
 
 <img src="KT pics/krit 2.jpg">
 
+<img src="KT pics/copy.jpg">
+
 <img src="KT pics/MJ.jpg">
 
 <img src="KT pics/D.jpg">
