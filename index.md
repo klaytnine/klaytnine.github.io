@@ -8,6 +8,8 @@ EMAIL: drawuskt@gmail.com
 
 # Photography
 
+<img src="KT pics/IMG_0567">
+
 <img src="KT pics/dance1.jpg">
 
 <img src="KT pics/wd1.jpg">
