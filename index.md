@@ -20,6 +20,9 @@ EMAIL: drawuskt@gmail.com
 
 # Film
 
+!!Apologies, due to recent demand for films to remain private I have no samples on this portfolio currently!! 
+Hoping to get some up soon. But feel free to email me requesting sampliers of film work. 
+
 <iframe width="633" height="317" src="KT pics/meg wed.mp4"> </iframe>
 
 # Graphic Design 
