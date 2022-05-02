@@ -1,4 +1,4 @@
-# [Photography](#photography) / [Film](#film) / [Graphic Design](#graphic-design)
+# [Photography](#photography) / [Film](#film) / [Graphic Design](#graphic-design) / [Social Media](#social-media-work)
 
 If you have any questions regarding my work or pricing, please email me and I should get back to you within 1-2 business days.
 
