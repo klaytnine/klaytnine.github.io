@@ -22,6 +22,9 @@ EMAIL: drawuskt@gmail.com
 Hoping to get some up soon. But feel free to email me requesting sampliers of film work. 
 
 <iframe width="633" height="317" src="KT pics/FullSizeRender.MOV"> </iframe>
+<video width="320" height="240" controls>
+  <source src="FullSizeRender.MOV" type="video/mp4">
+</video>
 
 <iframe width="633" height="317" src="KT pics/FullSizeRender.mov"> </iframe>
 
