@@ -21,9 +21,9 @@ EMAIL: drawuskt@gmail.com
 !!Apologies, due to recent demand for films to remain private I have no samples on this portfolio currently!! 
 Hoping to get some up soon. But feel free to email me requesting sampliers of film work. 
 
-<video width="320" height="240" controls>
-  <source src="FullSizeRender.mov" type="video/mp4">
-</video>
+<video width="320" height="240" controls><source src="FullSizeRender.mov" type="video"></video>
+
+![](FullSizeRender.MOV)
 
 # Graphic Design 
 
