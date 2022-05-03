@@ -18,9 +18,6 @@ EMAIL: drawuskt@gmail.com
 
 # Film
 
-!!Apologies, due to recent demand for films to remain private I have no samples on this portfolio currently!! 
-Hoping to get some up soon. But feel free to email me requesting sampliers of film work. 
-
 <video width="640" height="480" controls><source src="KT pics/FullSizeRender.mov"></video>
   
 <video width="640" height="480" controls><source src="KT pics/FullSizeRender.MOV"></video>
@@ -29,7 +26,8 @@ Hoping to get some up soon. But feel free to email me requesting sampliers of fi
 
 <video width="640" height="480" controls><source src="images/FullSizeRender.MOV"></video>
   
- # Graphic Design 
+  
+# Graphic Design 
 
 <img src="KT pics/krit 2.jpg">
 
