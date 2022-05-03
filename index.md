@@ -22,7 +22,7 @@ EMAIL: drawuskt@gmail.com
 Hoping to get some up soon. But feel free to email me requesting sampliers of film work. 
 
 <video width="320" height="240" controls>
-  <source src="FullSizeRender.MOV" type="video/mp4">
+  <source src="FullSizeRender.mov" type="video/mp4">
 </video>
 
 # Graphic Design 
