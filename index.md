@@ -29,7 +29,7 @@ Hoping to get some up soon. But feel free to email me requesting sampliers of fi
 
 <video width="320" height="240" controls><source src="images/FullSizeRender.MOV"></video>
   
-  # Graphic Design 
+ # Graphic Design 
 
 <img src="KT pics/krit 2.jpg">
 
