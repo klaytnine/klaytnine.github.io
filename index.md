@@ -25,10 +25,11 @@ Hoping to get some up soon. But feel free to email me requesting sampliers of fi
 
 <video width="320" height="240" controls><source src="KT pics/FullSizeRender.MOV" type="video"></video>
 
-<video width="320" height="240" controls><source src="KT pics/FullSizeRender.mov">
+<video width="320" height="240" controls><source src="KT pics/FullSizeRender.mov"></video>
   
 
-# Graphic Design 
+# Gra
+  # Graphic Design 
 
 <img src="KT pics/krit 2.jpg">
 
