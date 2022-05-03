@@ -23,7 +23,7 @@ Hoping to get some up soon. But feel free to email me requesting sampliers of fi
 
 <video width="320" height="240" controls><source src="FullSizeRender.mov" type="video"></video>
 
-<video width="320" height="240" controls><source src="FullSizeRender.MOV" type="video"></video>
+<video width="320" height="240" controls><source src=""KT pics/FullSizeRender.MOV" type="video"></video>
 
 # Graphic Design 
 
