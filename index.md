@@ -17,8 +17,6 @@ EMAIL: drawuskt@gmail.com
 <img src="KT pics/gg2.jpg">
 
 # Film
-
-<video width="640" height="480" controls><source src="KT pics/FullSizeRender.mov"></video>
   
 <video width="640" height="480" controls><source src="KT pics/FullSizeRender.MOV"></video>
 
